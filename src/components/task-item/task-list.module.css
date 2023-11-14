@@ -14,6 +14,8 @@
 .barLabelOutside {
   fill: #555;
   text-anchor: start;
+  font-weight: lighter;
+  dominant-baseline: central;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -moz-user-select: none;
